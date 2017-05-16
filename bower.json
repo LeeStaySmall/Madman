@@ -1,0 +1,23 @@
+{
+  "name": "madman",
+  "description": "I hope i can become a nice developer.",
+  "main": "madman.js",
+  "authors": [
+    "Madman"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Ld19940319"
+  ],
+  "homepage": "https://github.com/LeeStaySmall/madman",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

@@ -8,14 +8,31 @@
     <meta name="full-screen" content="yes">
     <meta name="format-detection" content="telephone=no" />
 
+    <link href="../../dist/css/index.css" rel="stylesheet">
     <!--[if lt IE 9]>
 <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
 <!--[endif]-->
-    <script src="jquery.min.js"></script>
+    <script src="../../dist/js/jquery.min.js"></script>
+    <script src="../../dist/js/madman.js"></script>
     <title></title>
 </head>
+<style>
+    img{
+        margin: 5px;
+    }
+</style>
 <body>
+    <button class="btn">Dialog</button>
+
 
 </body>
+<script>
+    $(document).ready(function () {
+        $('.btn').on('click',function () {
+            md.alertDialog();
+        });
+
+    });
+</script>
 </html>
