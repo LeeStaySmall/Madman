@@ -1,2 +1,2 @@
 # madman
-I hope i can become a nice developer. 
+I hope i can become a nice developer.

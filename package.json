@@ -1,0 +1,26 @@
+{
+  "name": "madman",
+  "version": "1.0.0",
+  "description": "I hope i can become a nice developer.",
+  "main": "madman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeStaySmall/madman.git"
+  },
+  "keywords": [
+    "Ld19940319"
+  ],
+  "author": "Madman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeStaySmall/madman/issues"
+  },
+  "homepage": "https://github.com/LeeStaySmall/madman#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
